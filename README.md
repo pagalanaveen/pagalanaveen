@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi! I am Pagala Naveen Kumar 👋</h1>
-  <h3>Junior DevOps Engineer | Cloud Infrastructure (AWS · GCP · Azure) | CI/CD | IaC</h3>
+  <h3>Junior DevOps Engineer | Cloud Infrastructure (AWS · GCP · AZURE) | CI/CD | IaC</h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/pagala-naveen-kumar-a90825169"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
