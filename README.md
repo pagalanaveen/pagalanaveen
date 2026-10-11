@@ -8,7 +8,7 @@
     <a href="https://hub.docker.com/u/pagalanaveen1"><img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Hub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Automated+CI%2FCD+Pipelines;Infrastructure+as+Code+with+Terraform+%26+Ansible;Containerization+with+Docker+%26+Kubernetes;Multi-Cloud%3A+AWS+%7C+GCP+%7C+Azure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Building+Automated+CI%2FCD+Pipelines;Infrastructure+as+Code+with+Terraform+%26+Ansible;Containerization+with+Docker+%26+Kubernetes;Multi-Cloud%3A+AWS+%7C+GCP+%7C+AZURE" alt="Typing SVG" />
 </div>
 
 ---
