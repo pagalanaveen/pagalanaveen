@@ -15,14 +15,14 @@
 
 ## 👨‍💻 About Me
 
-Entry-level DevOps Engineer with hands-on project experience in CI/CD automation, Docker, Kubernetes, Terraform, and Ansible on AWS, alongside working knowledge of GCP and Azure[cite: 1]. B.E. in Electronics & Communication Engineering with enterprise background at Wipro, working under strict SLAs and quality targets[cite: 1].
+Entry-level DevOps Engineer with hands-on project experience in CI/CD automation, Docker, Kubernetes, Terraform, and Ansible on AWS, alongside working knowledge of GCP and Azure. B.E. in Electronics & Communication Engineering with enterprise background at Wipro, working under strict SLAs and quality targets.
 
-- ☁️ **Cloud Platforms** — Designing and managing resources across AWS (EC2, VPC, S3, IAM, CloudWatch), GCP (Compute Engine, GKE), and Azure[cite: 1]
-- 🐳 **Containers & Orchestration** — Writing Dockerfiles, managing container registries on Docker Hub, and deploying on Kubernetes (Minikube)[cite: 1]
-- 🚀 **CI/CD Automation** — Building continuous integration and automated deployment pipelines with Jenkins, Git, and GitHub[cite: 1]
-- 🛠️ **Infrastructure as Code** — Provisioning cloud resources with Terraform and automating configurations with Ansible[cite: 1]
-- 📊 **Monitoring & Observability** — Setting up metric collection and dashboards with Prometheus & Grafana[cite: 1]
-- 🐧 **Systems Administration** — Linux administration, SSH management, networking troubleshooting, Python, and YAML automation[cite: 1]
+- ☁️ **Cloud Platforms** — Designing and managing resources across AWS (EC2, VPC, S3, IAM, CloudWatch), GCP (Compute Engine, GKE), and Azure
+- 🐳 **Containers & Orchestration** — Writing Dockerfiles, managing container registries on Docker Hub, and deploying on Kubernetes (Minikube)
+- 🚀 **CI/CD Automation** — Building continuous integration and automated deployment pipelines with Jenkins, Git, and GitHub
+- 🛠️ **Infrastructure as Code** — Provisioning cloud resources with Terraform and automating configurations with Ansible
+- 📊 **Monitoring & Observability** — Setting up metric collection and dashboards with Prometheus & Grafana
+- 🐧 **Systems Administration** — Linux administration, SSH management, networking troubleshooting, Python, and YAML automation
 
 ---
 
@@ -51,9 +51,9 @@ Entry-level DevOps Engineer with hands-on project experience in CI/CD automation
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **CI/CD Pipeline for Containerized App** | `Jenkins` `Docker` `AWS EC2` `Git` | Pulls code from GitHub, executes tests, builds a Docker image on commit, pushes to Docker Hub (`pagalanaveen1`), and deploys to an EC2 instance[cite: 1]. |
-| **AWS Infrastructure via Terraform & Ansible** | `Terraform` `Ansible` `AWS VPC` | Automated provisioning of AWS VPC, public subnet, security groups, and an EC2 instance using Terraform, with Nginx configured via Ansible playbook[cite: 1]. |
-| **Kubernetes Cluster with Monitoring** | `Kubernetes (Minikube)` `Prometheus` `Grafana` | Deployed applications using Deployment and Service YAMLs; integrated Prometheus and Grafana dashboards for cluster CPU and memory observability[cite: 1]. |
+| **CI/CD Pipeline for Containerized App** | `Jenkins` `Docker` `AWS EC2` `Git` | Pulls code from GitHub, executes tests, builds a Docker image on commit, pushes to Docker Hub (`pagalanaveen1`), and deploys to an EC2 instance. |
+| **AWS Infrastructure via Terraform & Ansible** | `Terraform` `Ansible` `AWS VPC` | Automated provisioning of AWS VPC, public subnet, security groups, and an EC2 instance using Terraform, with Nginx configured via Ansible playbook. |
+| **Kubernetes Cluster with Monitoring** | `Kubernetes (Minikube)` `Prometheus` `Grafana` | Deployed applications using Deployment and Service YAMLs; integrated Prometheus and Grafana dashboards for cluster CPU and memory observability. |
 
 ---
 
