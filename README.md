@@ -17,7 +17,7 @@
 
 Entry-level DevOps Engineer with hands-on project experience in CI/CD automation, Docker, Kubernetes, Terraform, and Ansible on AWS, alongside working knowledge of GCP and Azure. B.E. in Electronics & Communication Engineering with enterprise background at Wipro, working under strict SLAs and quality targets.
 
-- ☁️ **Cloud Platforms** — Designing and managing resources across AWS (EC2, VPC, S3, IAM, CloudWatch), GCP (Compute Engine, GKE), and Azure
+- ☁️ **Cloud Platforms** — Designing and managing resources across AWS (EC2, VPC, S3, IAM, CloudWatch), GCP (Compute Engine, GKE), and AZURE
 - 🐳 **Containers & Orchestration** — Writing Dockerfiles, managing container registries on Docker Hub, and deploying on Kubernetes (Minikube)
 - 🚀 **CI/CD Automation** — Building continuous integration and automated deployment pipelines with Jenkins, Git, and GitHub
 - 🛠️ **Infrastructure as Code** — Provisioning cloud resources with Terraform and automating configurations with Ansible
